@@ -1,5 +1,6 @@
 # Why don't apps match brains?
 **draft**
+I am afraid that this article is in progress. I will probably regret putting it out there in its current form. 
 ![Platters](images/7059ECD6-F046-48AC-A9C1-2275FAF6002A_1_201_a.jpeg)
 
 #### Brains: pretty highly evolved
