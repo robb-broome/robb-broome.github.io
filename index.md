@@ -1,7 +1,7 @@
 # Why don't apps match brains?
 **draft**
 I am afraid that this article is in progress. I will probably regret putting it out there in its current form. 
-![Platters](images/7059ECD6-F046-48AC-A9C1-2275FAF6002A_1_201_a.jpeg)
+{% include image.html url = 'images/7059ECD6-F046-48AC-A9C1-2275FAF6002A_1_201_a.jpeg' description='There are a lot of spreadsheets in there. P/C Robb Broome' ref='https://photos.app.goo.gl/EgKFMvSvBzpsTDBy7' %}
 
 #### Brains: pretty highly evolved
 Your brain is a network of connections that evolved to model things and events well enough that the body the brain is in can find food and make more bodies with brains. Brains seem to model the world they inhabit with their brain structure. Different parts of the brain specialize but are connected profusely. Most of all, to our conscious selves, all this results in one single, coherent representation. The match between brain and the outside world is so perfect that we can make sense of and act in the world pretty effortlessly without thinking about it.
