@@ -28,6 +28,6 @@ So, since your brain doesn't have a separate place for storing lists of things t
 I'm pretty sure i spend a lot of my time trying to fine where a thing is. We just accept that that is the way things are, and that there is no better way, and we are always going to be limited, slow, forgetful human beings because we have really crappy tools. We can send a person to the moon but we still use email. 
 So this is the proposal. ...watch this space...
 #### working bibliography
-- <a href="https://www.iep.utm.edu/theomind/" target="_robb.works.stuff">Internet Encyclopedia of Philosophy, theory of Mind</a>
-- <a href="https://plato.stanford.edu/entries/cognitive-science/" target="_robb.works.stuff">Stanford Encyclopedia of Philosophy, Cognitive Science</a>
-- <a href="https://plato.stanford.edu/entries/consciousness-unity/" target="_robb.works.stuff">Stanford Encyclopedia of Philosophy, The Unity of Consciousness</a>
+- {% include biblio.html ref = "https://www.iep.utm.edu/theomind/" anchor = "Internet Encyclopedia of Philosophy, theory of Mind" %}
+- {% include biblio.html ref = "https://plato.stanford.edu/entries/cognitive-science/" anchor = "Stanford Encyclopedia of Philosophy, Cognitive Science" %}
+- {% include biblio.html ref = "https://plato.stanford.edu/entries/consciousness-unity/" anchor = "Stanford Encyclopedia of Philosophy, The Unity of Consciousness" %}
